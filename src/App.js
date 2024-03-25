@@ -159,7 +159,7 @@ function App() {
         margin: '0 auto',
         padding: '1rem 0 3rem',
         marginBottom: '1rem',
-        marginTop: '3rem',
+        marginTop: '6rem',
         borderRadius: {
           xs: 'none',
           sm: '0 0 1rem 1rem',
@@ -185,7 +185,7 @@ function App() {
               component="img"
               sx={{
                 height: { xs: '16px', sm: '22px', md: '26px' },
-                width: 'auto',
+                width: '2rem',
               }}
               alt="logo"
               src={Logo}
