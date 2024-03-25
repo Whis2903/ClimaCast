@@ -159,6 +159,7 @@ function App() {
         margin: '0 auto',
         padding: '1rem 0 3rem',
         marginBottom: '1rem',
+        marginTop: '3rem',
         borderRadius: {
           xs: 'none',
           sm: '0 0 1rem 1rem',
