@@ -29,7 +29,7 @@ https://whisclimacast.vercel.app/
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone https://github.com/Whis2903/ClimaCast.git
 
 ```
 
